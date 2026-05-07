@@ -1,8 +1,8 @@
 # Hi, I'm Ruben 👋
 
-I'm a leader at CGI, working at the intersection of AI, data, digital transformation and governance.
+I'm working for CGI where I am a leader, working at the intersection of AI, data, digital transformation and governance.
 
-My background combines technology, public administration and organisational leadership. Alongside my work in tech, I'm active within the CDA organisation as a DCS and leader, chair a korfbal club, and spent 8 years serving as a municipal council member in the Netherlands.
+My background combines technology, public administration and organisational leadership. Alongside my work in tech, I'm active within the Dutch politics for the Christen Democrats, chairman at a local sportsclub, and spent 8 years serving as a municipal council member in the Netherlands.
 
 I enjoy turning complexity into practical solutions, whether that's through technology, policy, analysis or organisational change.
 
