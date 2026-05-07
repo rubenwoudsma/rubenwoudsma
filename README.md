@@ -1,22 +1,14 @@
-# Hi, I'm Ruben 👋
+# Hi, I'm Ruben 👋🏻
 
-I'm working for CGI where I am a leader, working at the intersection of AI, data, digital transformation and governance.
+Leader at CGI, working on AI, data, digital transformation and governance.
 
-My background combines technology, public administration and organisational leadership. Alongside my work in tech, I'm active within the Dutch politics for the Christen Democrats, chairman at a local sportsclub, and spent 8 years serving as a municipal council member in the Netherlands.
+My background combines technology, public administration and organisational leadership. Besides tech, I'm active in Dutch politics for the CDA, chairman of a local korfbal club, and spent 8 years serving as a municipal council member in the Netherlands.
 
-I enjoy turning complexity into practical solutions, whether that's through technology, policy, analysis or organisational change.
+I enjoy turning complexity into practical and understandable solutions, whether through technology, policy or analysis.
 
-A lot of my interests revolve around the question of how systems, digital or societal, can remain understandable, reliable and useful for people.
+## Interests
 
-## A few things I care about
-
-- AI and automation
-- Data analysis & visualisation
-- Digital government
-- Local democracy and governance
-- Open source software
-- Sports and association life
-- Technology that people actually understand
+AI & automation • Data analysis • Digital government • Local democracy • Open source • Sports & association life
 
 ## Tech & tools
 
@@ -29,15 +21,14 @@ A lot of my interests revolve around the question of how systems, digital or soc
 
 ## Open source
 
-I contribute to the Dutch translation efforts for WordPress and enjoy supporting open source projects that make technology more accessible and understandable.
+Contributor to the Dutch WordPress translation project and supporter of open source initiatives that make technology more accessible.
 
-## Currently exploring
+## Contact
 
-- AI governance
-- Public sector innovation
-- Workflow automation
-- Data-driven decision making
-- The intersection between technology and local government
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ## GitHub stats
 
@@ -45,6 +36,6 @@ I contribute to the Dutch translation efforts for WordPress and enjoy supporting
 
 ---
 
-> Building practical systems, improving decision making, and keeping technology understandable.
+> Building practical systems and keeping technology understandable.
 
 Based in the Netherlands 🇳🇱
