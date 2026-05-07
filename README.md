@@ -25,10 +25,10 @@ Contributor to the Dutch WordPress translation project and supporter of open sou
 
 ## Contact
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://rubenwoudsma.nl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rubenwoudsma)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/rubenwoudsma)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ruben.woudsma@gmail.com)
 
 ## GitHub stats
 
